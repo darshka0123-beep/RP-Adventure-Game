@@ -15,3 +15,4 @@ Debugging Python syntax errors, indentation, and logic flows.
 # What I struggled on
 Managing session state bugs where choices would make the player reset to the first scene
 Correctly setting up boolean and string checks inside streamlit button columns without breaking the quiz progreesion.
+Learning about session state for the first time was new and little confusing but after a while you get used to it. 
